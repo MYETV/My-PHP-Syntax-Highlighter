@@ -4,6 +4,10 @@ Download the file .vsix and double click it; Visual Studio must be installed to 
 
 ## CHANGELOG
 
+### Version 1.0.2
+- Improved highlighting matching for mixed braces
+- Added marker in the scrollbar for matching braces
+
 ### Version 1.0.1
 - Improved highlighting for braces and condition
 - Improved speed and security
